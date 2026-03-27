@@ -17,4 +17,4 @@ My focus is on developing practical skills in security operations, particularly 
 Building toward a SOC Analyst role, with an emphasis on structured analysis, clear justification of alerts, and effective decision-making in security environments.
 
 
-🌙 Soft outside. Sharp within.
+## 🌙 Looks soft. Thinks sharp.
