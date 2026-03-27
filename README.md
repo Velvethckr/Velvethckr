@@ -1,16 +1,20 @@
-## Hi there 👋
+# Velvet Dream ✨
 
-<!--
-**Velvethckr/Velvethckr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity | SOC in training  
+🎓 Background in Public Security  
 
-Here are some ideas to get you started:
+I’m currently transitioning into cybersecurity, bringing a strong foundation in analysis, risk awareness, and decision-making under pressure from my background in public security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on developing practical skills in security operations, particularly in alert triage, threat intelligence, and incident analysis — with a mindset centered on understanding attacker behavior and improving detection processes.
+
+## 🧠 Core Focus
+- SOC operations & alert triage  
+- Threat intelligence & enrichment  
+- Networking fundamentals  
+- Security analysis & investigation  
+
+## 🚀 Direction
+Building toward a SOC Analyst role, with an emphasis on structured analysis, clear justification of alerts, and effective decision-making in security environments.
+
+
+🌙 Soft outside. Sharp within.
